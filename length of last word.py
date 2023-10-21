@@ -10,7 +10,6 @@ def length_of_last_word(s):
         # If there are no words, return 0
         return 0
 
-# Example usage:
 s = input('sentence:')
 result = length_of_last_word(s)
 print(result) 
